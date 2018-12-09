@@ -1,0 +1,24 @@
+{
+  "name": "furrygame",
+  "version": "1.0.0",
+  "description": "<img alt=\"Logo\" src=\"http://coderslab.pl/svg/logo-coderslab.svg\" width=\"400\">",
+  "main": "js/app.js",
+  "scripts": {
+    "build": "webpack --mode production ./js/app.js --output ./js/out.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LechCieslak/WAR_FER_S_42_REACT_Furry_Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LechCieslak/WAR_FER_S_42_REACT_Furry_Game/issues"
+  },
+  "homepage": "https://github.com/LechCieslak/WAR_FER_S_42_REACT_Furry_Game#readme",
+  "devDependencies": {
+    "webpack": "^4.23.1",
+    "webpack-cli": "^3.1.2"
+  }
+}
