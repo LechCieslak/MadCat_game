@@ -2,3 +2,4 @@ Gracz sterując klawiszami strzałek przemieszcza się kotem po planszy 10x10. C
 
 Użyte technologie:
 HTML, CSS, JavaScript.
+&
